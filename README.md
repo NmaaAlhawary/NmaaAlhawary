@@ -6,7 +6,7 @@
 
 ###  Software & AI Developer | Computer Science
 
-*Robotics • Web Development • Moodle Development* • EdTech Soluations*
+*Robotics • Web Development • Moodle Development* • EdTech Soluations
 
 <br>
 

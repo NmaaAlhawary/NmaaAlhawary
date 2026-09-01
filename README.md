@@ -37,6 +37,19 @@
 
 <br>
 
+<!-- ══════════════ 3D CONTRIBUTIONS ══════════════ -->
+<h3 align="center">📊 My Contributions in 3D</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  </picture>
+</p>
+
+<br>
+
 <!-- ══════════════════ SNAKE ══════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NmaaAlhawary/NmaaAlhawary/output/snake-dark.svg" />

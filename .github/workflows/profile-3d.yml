@@ -22,6 +22,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Strip opaque backgrounds
+        run: |
+          for f in profile-3d-contrib/*.svg; do
+            sed -i 's|<rect x="0" y="0" width="1280" height="850" fill="#ffffff">|<rect x="0" y="0" width="1280" height="850" fill="none">|' "$f"
+            sed -i 's|<rect x="0" y="0" width="1280" height="850" fill="#00000f">|<rect x="0" y="0" width="1280" height="850" fill="none">|' "$f"
+          done
+
       - name: Commit generated SVGs
         run: |
           git config user.name  "github-actions[bot]"

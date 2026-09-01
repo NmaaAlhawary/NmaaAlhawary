@@ -28,17 +28,6 @@
 <!-- ══════════════════ STATS ══════════════════ -->
 <h3 align="center">📈 A Look at My Year</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="./metrics/overview.svg" alt="Overview" width="100%" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="./metrics/languages.svg" alt="Most used languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NmaaAlhawary&hide_border=true&theme=tokyonight&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF&background=1A1B27" alt="Contribution streak" />
 </p>

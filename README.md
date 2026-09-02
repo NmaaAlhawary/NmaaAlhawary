@@ -26,7 +26,7 @@
 <br>
 
 <!-- ══════════════════ STATS ══════════════════ -->
-<h3 align="center">📈 A Look at My Year</h3>
+<h3 align="center">A Look at My Year</h3>
 
 <p align="center">
   <picture>
@@ -39,7 +39,7 @@
 <br>
 
 <!-- ══════════════ 3D CONTRIBUTIONS ══════════════ -->
-<h3 align="center">📊 My Contributions in 3D</h3>
+<h3 align="center">My Contributions in 3D</h3>
 
 <p align="center">
   <picture>
@@ -62,7 +62,7 @@
 <br>
 
 <!-- ══════════════════ TOOLBOX ══════════════════ -->
-<h3 align="center">🧰 Toolbox</h3>
+<h3 align="center">Toolbox</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,swift,php,mysql,postgres,docker,git,linux,figma&perline=7" alt="Skills" />

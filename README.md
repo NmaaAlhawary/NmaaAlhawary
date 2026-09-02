@@ -1,6 +1,6 @@
 <!-- ══════════════════ HEADER ══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Nma'a%20👋&fontSize=44&fontColor=ffffff&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Nma'a&fontSize=44&fontColor=ffffff&fontAlignY=35" alt="header" />
 </p>
 
 <!-- ══════════════════ TYPING ══════════════════ -->

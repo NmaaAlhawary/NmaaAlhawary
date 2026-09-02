@@ -72,9 +72,5 @@
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NmaaAlhawary&style=for-the-badge&color=7C4DFF&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 </p>

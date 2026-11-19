@@ -25,19 +25,6 @@
 
 <br>
 
-<!-- ══════════════════ STATS ══════════════════ -->
-<h3 align="center">A Look at My Year</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NmaaAlhawary&hide_border=true&background=00000000&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF&stroke=7C4DFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&excludeDaysLabel=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NmaaAlhawary&hide_border=true&background=00000000&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF&stroke=7C4DFF&currStreakNum=1F2328&sideNums=1F2328&sideLabels=57606A&dates=57606A&excludeDaysLabel=57606A" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NmaaAlhawary&hide_border=true&background=00000000&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF&stroke=7C4DFF&currStreakNum=1F2328&sideNums=1F2328&sideLabels=57606A&dates=57606A&excludeDaysLabel=57606A" alt="Contribution streak" />
-  </picture>
-</p>
-
-<br>
-
 <!-- ══════════════ 3D CONTRIBUTIONS ══════════════ -->
 <h3 align="center">My Contributions in 3D</h3>
 
